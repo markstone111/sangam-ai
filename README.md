@@ -1,5 +1,5 @@
-#🌟 About the Project: SangamAI
-##💡 Inspiration
+## 🌟 About the Project: SangamAI
+## 💡 Inspiration
 Thalassemia remains a major public health challenge in India, especially due to the lack of awareness, irregular blood donations, and limited access to specialized care. We were deeply moved by the story and mission of Blood Warriors and their commitment to eliminating Thalassemia by 2035. The idea of using AI to solve a real-world, life-threatening issue resonated strongly with us. This project was inspired by the desire to create technology with compassion—bridging gaps in access, connection, and care.
 
 ## 📚 What We Learned
